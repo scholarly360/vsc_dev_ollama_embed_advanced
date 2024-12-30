@@ -10,12 +10,19 @@ On command line type following
 ## BULD LOCAL
 
 >> python app.py
+
 OR
+
 >> gunicorn app:app
+
 but before start ollma using 
+
 >> ollama serve
+
 or check 
+
 >> ollama list
+
 if already running
 
 ## Verify APIs
